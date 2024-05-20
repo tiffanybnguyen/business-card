@@ -1,21 +1,11 @@
-# co7e9452aa6f920c087621ffe
+# https://hilarious-malasada-ba1622.netlify.app/
 
-Quick start:
+## This Business Card Thing
 
-```
-$ npm install
-$ npm start
-````
+This is a quick project that demonstrates key ideas of HTML and CSS that I've been slowly learning over the past few days. I've deployed it using netlify (link in title).
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+Personally, the highlight of this challenge was playing with the keyframes! I'm really starting to enjoy playing with css, and I saw a lot of cool ideas using tailwind so hopefully I will get more into the tailwind framework as I progress.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+If this template looks familiar, that is because I am learning HTML/CSS using scrimba. My next goal is to learn javascript and then eventually react! 
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Also, I know this project isn't good enough to go on GitHub, but I'm working on learning how to use GitHub as well so I thought I would get some practice in :D.
