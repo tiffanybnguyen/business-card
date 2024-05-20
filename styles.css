@@ -1,0 +1,49 @@
+body {
+    margin: 20px;
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+    font-family: Courier New, Courier, monospace;
+}
+
+@keyframes rainbow {
+    0% {background-color: #eae4e9;}
+    10% {background-color: #fff1e6;}
+    20% {background-color: #fde2e4;}
+    30% {background-color: #fad2e1;}
+    40% {background-color: #e2ece9;}
+    50% {background-color: #bee1e6;}
+    60% {background-color: #f0efeb;}
+    70% {background-color: #dfe7fd;}
+    80% {background-color: #cddafd;}
+    90% {background-color: #d2ddfd;}
+    100% {background-color: #eae4e9;}
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 10px;
+    filter: drop-shadow(#ffffff 1rem 1rem 50px);
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #BEB2C8;
+    color: #2b2839;
+    border: 6px solid #D7D6D6;
+    border-radius: 26px;
+    text-shadow: 2px 2px 4px #FFFFFF;
+    
+    
+    animation-name: rainbow;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
